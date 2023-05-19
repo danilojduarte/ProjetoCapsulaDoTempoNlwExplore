@@ -3,5 +3,8 @@
     "@types/node": "^20.1.5",
     "tsx": "^3.12.7",
     "typescript": "^5.0.4"
-  }
+  },
+  "scripts": {
+    "dev": "tsx src/server.ts"
+  }  
 }
